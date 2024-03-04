@@ -19,7 +19,7 @@ After testing 50 to 70 subdomains, I got a kind of different subdomain ( as per 
 
 After some refreshment, I thought "let's start with non-functional testing or server-side testing". I started with the most popular "Host Header Injection" and some other non-functional testing.
 
-After spending some time with the web applications, I was like "Let's test for the most ignored vulnerability "**CRLF INJECTION**"
+After spending some time with the web applications, I was like "Let's test for the most ignored vulnerability **CRLF INJECTION**
 
 ### What is CRLF?
 CRLF refers to the special character elements "CR: Carriage Return" and "LF: Line Feed." These elements are embedded in HTTP headers to signify an End of Line (EOL) marker.
@@ -32,7 +32,7 @@ CRLF injection occurs when the web server directly renders those special charact
 
 So basically, when the web application is vulnerable to CRLF injection, we can send those special characters as our payload and the server will parse that as end-of-line,
 
-After that CRLF, if we send any texts, the server will set them as "**Response headers**"
+After that CRLF, if we send any texts, the server will set them as **Response headers**
 
 set arbitrary headers like we can set a cookie in the victim’s browser, or we can set the “Location:” header to force the victim to redirect to malicious sites and many more.
 
@@ -45,11 +45,11 @@ With the intention of CRLF, I fired my first payload:
 https://subDomain.microsoft.com/%0D%0A%20Set-Cookie:whoami=thecyberneh
 ```
 
-However, I did not get any CRLF injection. The response was "**400 Bad Request**" and the HTML was "**HTTP Error 400 The requested URL is invalid**"
+However, I did not get any CRLF injection. The response was **400 Bad Request** and the HTML was **HTTP Error 400 The requested URL is invalid**
 
-Here, I observed something different, mostly when CRLF is not possible or when the server is well protected, the web server should return "**404 Not Found**" because if the server is well protected and we enter CRLF payload, the server parses that payload as a part of the URL and in that case, the server actually parses "**%0D%0A%20Set-Cookie:whoami=thecyberneh**" as a path not like payload.
+Here, I observed something different, mostly when CRLF is not possible or when the server is well protected, the web server should return **404 Not Found** because if the server is well protected and we enter CRLF payload, the server parses that payload as a part of the URL and in that case, the server actually parses **%0D%0A%20Set-Cookie:whoami=thecyberneh** as a path not like payload.
 
-and if there is no path or directory like "**%0D%0A%20Set-Cookie:whoami=thecyberneh**", the server should return "**404 Not Found**" instead of "**400 Bad Request**".
+and if there is no path or directory like **%0D%0A%20Set-Cookie:whoami=thecyberneh**, the server should return **404 Not Found** instead of **400 Bad Request**.
 
 so I thought that server is not well protected or the firewall is weak.
 
@@ -59,13 +59,13 @@ For confirmation, I tried random URLs like this
 https://subDomain.microsoft.com/abcxyzabcxyz
 ```
 
-and as per the previously expected behavior of the server, the server returned **“404 Not Found”** with the HTML response **"We are sorry, the page you requested cannot be found. The URL may be misspelled or the page you're looking for is no longer available"**
+and as per the previously expected behavior of the server, the server returned **“404 Not Found”** with the HTML response **We are sorry, the page you requested cannot be found. The URL may be misspelled or the page you're looking for is no longer available**
 
 So as per the whole situation
 
-> The server was returning "**404 Not found**" if the path is not there
+> The server was returning **404 Not found** if the path is not there
 >
-> The Server was returning "**400 Bad Request**" when I tried with the payload
+> The Server was returning **400 Bad Request** when I tried with the payload
 
 After this, I was sure that the server is not protected or the firewall is weak. So I have to bypass the firewall or fire the correct payload
 
@@ -80,7 +80,7 @@ I tried with some different payloads like:
 
 After trying that payload, I was only getting **400 Bad Request** so I thought that I need something different because most firewall blocks normal and basic payloads.
 
-I did little research and got some unique encoding called "**GBK encoding**"
+I did little research and got some unique encoding called **GBK encoding**
 
 ## Understanding of Encoding and #FirewallBypass
 
@@ -232,4 +232,4 @@ Linkedin :- [https://www.linkedin.com/in/thecyberneh](https://www.linkedin.com/i
 
 Instagram :- [https://www.instagram.com/thecyberneh/](https://www.instagram.com/thecyberneh/) \[ [thecyberneh](https://www.instagram.com/thecyberneh/) ]
 
-Thanks for reading….
+Thanks for reading…
