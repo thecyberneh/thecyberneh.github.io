@@ -1,5 +1,5 @@
 ---
-title: Stop your bug bounty journey (at least for a while)
+title: Stop your bug bounty journey (for a while)
 date: 2024-03-05 03:10:00 +0530
 categories: [mythoughts, bugbounty]
 tags: [mythoughts]     # TAG names should always be lowercase
