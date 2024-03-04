@@ -37,6 +37,7 @@ A lot of people just try a few low-hanging everywhere ( sometimes even without l
 Another important point that I want to tell is about recon, saw a lot of people chasing recon like anything, and nothing wrong with it, a good recon methodology and a good attack surface detection methodology always help to pull bounty from your target because it helps you to discover hidden parameters or endpoint which may be never tested before and I also love recon.
 
 > **Question**: So Neh, what's the problem here?
+> 
 > **My Answer**: WHAT TO DO AFTER RECON?
 
 **running NUCLEI on subdomains or some other automation tool huh🤔??**
