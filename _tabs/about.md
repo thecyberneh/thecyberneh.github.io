@@ -31,9 +31,6 @@ I'm **Neh Patel**, a passionate security engineer hailing from India. With a yea
 
 ## Open Source Contributions
 
-
-
-
 ## Skills
 - **Vulnerability Assessment and Penetration Testing (VAPT)**
 - **Web Application/Mobile Penetration Testing**
