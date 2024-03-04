@@ -8,7 +8,7 @@ tags: [mythoughts]     # TAG names should always be lowercase
 
 ## Introduction
 Hello everyone,
-Hope you are doing great, Again [THECYBERNEH](https://twitter.com/thecyberneh) here, but this time, this is not a post about some writeup n all, this is going to be a different type of post.
+Hope you are doing great, Again Neh Patel aka [THECYBERNEH](https://twitter.com/thecyberneh) here, but this time, this is not a post about some writeup n all, this is going to be a different type of post.
 
 A large amount of people gonna hate this post but really want to share a few things with you guys. 
 
