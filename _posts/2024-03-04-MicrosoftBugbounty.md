@@ -212,10 +212,10 @@ After running that tool, I got another CRLF in another domain from Microsoft.
 
 I reported both of them and got a response regarding bounty in 3 weeks.
 
----
+
 -  **Priority: P2**
 -  **Severity: Important**
---- 
+
 
 And with that, I got a total of $6000 bounty and theMicrosoft Hall of Fame.
 
