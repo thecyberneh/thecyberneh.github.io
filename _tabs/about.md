@@ -43,8 +43,6 @@ I'm **Neh Patel**, a passionate security engineer hailing from India. With a yea
 
 ### SCRIPTKIDDI3
 
-- [GitHub](https://github.com/thecyberneh/scriptkiddi3)
-
 Introducing **SCRIPTKIDDI3**, a powerful recon and initial vulnerability detection tool crafted specifically for Bug Bounty Hunters. This tool, built using a variety of open-source technologies and a shell script, empowers users to swiftly execute scans on target domains and identify potential vulnerabilities.
 
 **Key Features:**
