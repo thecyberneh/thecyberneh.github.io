@@ -8,7 +8,16 @@ tags: [mythoughts]     # TAG names should always be lowercase
 
 ## Introduction
 Hello everyone,
-Hope you are doing great, Again Neh Patel aka [THECYBERNEH](https://twitter.com/thecyberneh) here, but this time, this is not a post about some writeup n all, this is going to be a different type of post.
+Hope you are doing great, I'm Neh Patel aka [THECYBERNEH](https://twitter.com/thecyberneh).A Security researcher, NOOB, and learner, just like you guys.
+
+### A little about my infosec journey...
+recognized as Microsoft's Most Valuable Security Researcher globally, currently holding the prestigious rank of 82. I have also achieved the 23rd position in Microsoft's Top Security Researchers globally ( 2022 Q3 ). My contributions have been recognized with accolades in the Hall of Fame of major tech giants, including Google, Apple, and Microsoft.
+
+Some of you may recognize me from my previous post on [$6000 with Microsoft Hall of Fame | Microsoft Firewall Bypass | CRLF to XSS | Microsoft Bug Bounty
+](https://thecyberneh.github.io/posts/MicrosoftBugbounty/) where I shared insights on Microsoft Firewall Bypass, and CRLF to XSS and For those who are not acquainted with my blog, you might know me through my [Twitter](https://twitter.com/thecyberneh) handle (even though I'm not a famous or popular personality lol )
+
+
+This time, this is not a post about some writeup n all, this is going to be a different type of post.
 
 A large amount of people gonna hate this post but really want to share a few things with you guys. 
 
