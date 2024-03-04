@@ -31,22 +31,7 @@ I'm **Neh Patel**, a passionate security engineer hailing from India. With a yea
 
 ## Open Source Contributions
 
-### [SCRIPTKIDDI3](https://github.com/thecyberneh/scriptkiddi3)
 
-Introducing **SCRIPTKIDDI3**, a powerful recon and initial vulnerability detection tool crafted specifically for Bug Bounty Hunters. This tool, built using a variety of open-source technologies and a shell script, empowers users to swiftly execute scans on target domains and identify potential vulnerabilities.
-
-**Key Features:**
-- **Reconnaissance:** Gathers crucial information like subdomains and running services using nuclei.
-- **Vulnerability Scanning:** Utilizes collected data to scan for known vulnerabilities and potential attack vectors, highlighting high-risk issues.
-- **Misconfiguration Detection:** Identifies misconfigurations and insecure default settings using nuclei templates, ensuring proper system configurations.
-
-**Why SCRIPTKIDDI3:**
-- **Efficiency:** Conduct thorough and efficient recon and vulnerability assessments.
-- **User-Friendly:** Streamlined processes for quick and effective scans.
-
-**Let's Find Bugs with SCRIPTKIDDI3!**
-
-Explore SCRIPTKIDDI3 on [GitHub](https://github.com/thecyberneh/scriptkiddi3).
 
 
 ## Skills
