@@ -14,9 +14,12 @@ A large amount of people gonna hate this post but really want to share a few thi
 
 The post is for people who are beginners in bug-bounty or who are thinking about getting into bug-bounty. One more thing, [Ashutosh Dutta](https://www.linkedin.com/in/marvelmaniac/)'s LinkedIn post is the inspiration behind this blog and I added a lot of words from his post, I extend my gratitude to him for providing valuable thoughts.
 
+
+## Let's start...
+
 I often get these DMs from individuals asking me how to get started in Bug Bounty. Mostly these individuals come from a non-security background and are beginners. There is absolutely no problem wanting to do bug bounty but fundamentally speaking, it is a small niche in cybersecurity and simply jumping into the Bug Bounty space without knowing anything about cybersecurity is a huge problem.
 
-## The Misconception of Quick Riches
+
 People are attracted to the huge bounties that Bug Bounty Hunters share on the internet. However, what they don't seem to notice is the years of hard work a person has invested into hacking and learning various topics that revolve around hacking which doesn't necessarily help them earn a bounty directly.
 
 If someone only wants to do Bug Bounty because they saw someone earn good money from it, it will be extremely difficult for them to earn from Bug Bounty at first, and then even if they manage to get a bounty, it will be really hard for them to sustain i.e., keep getting bounties. The reason is a lack of interest in the subject i.e. hacking. The only thing the person was interested in from the start was getting paid huge. That's a very wrong approach to begin with.
