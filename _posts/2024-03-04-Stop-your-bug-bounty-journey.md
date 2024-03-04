@@ -46,7 +46,7 @@ Another important point that I want to tell is about recon, saw a lot of people 
 A good amount of people are ignoring Application security. I mean you have to understand the application before blindly running your tools, a lot of people even report bugs (let's say reflected XSS ) that they get by nuclei and even they don't know what is hosted on that particular site, again it's totally ok if you want to follow such methodology, but at the end of the day, if you want to find good bugs with great impact n all, you have to learn basics. 
 
 Always follow good blogs about security research like i saw a lot of blogs that explain the root cause of vulnerability with code snippets n all, and they will always help you to understand a particular vulnerability in depth.
-For example, Assetnote has quality blogs about their findings, not only exploitation but they explain the root cause, their methodology, and a lot of other stuff like post exploitation n all.
+For example, [Assetnote](https://www.assetnote.io/resources/research) has quality blogs about their findings, not only exploitation but they explain the root cause, their methodology, and a lot of other stuff like post exploitation n all.
 
 ## Addressing Skepticism
 > **Neh!! Stop for a while! Why should we take you and this blog seriously? you are not some senior person in bug-bounty.**
