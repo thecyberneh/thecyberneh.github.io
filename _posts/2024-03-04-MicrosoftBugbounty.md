@@ -217,7 +217,7 @@ I reported both of them and got a response regarding bounty in 3 weeks.
 -  **Severity: Important**
 
 
-And with that, I got a total of $6000 bounty and theMicrosoft Hall of Fame.
+And with that, I got a total of $6000 bounty for 2 reports and theMicrosoft Hall of Fame.
 
 A Message for Readers: If you enjoyed this write-up, connect with me on [Twitter](https://twitter.com/thecyberneh), [LinkedIn](https://www.linkedin.com/in/thecyberneh), and [Instagram](https://www.instagram.com/thecyberneh/).
 
