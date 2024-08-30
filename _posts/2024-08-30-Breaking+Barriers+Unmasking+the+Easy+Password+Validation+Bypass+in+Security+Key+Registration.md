@@ -14,7 +14,7 @@ Hello Hackers, Hope you are doing grate. I am Neh Patel also known as [THECYBERN
 
 In case you missed my previous blog post, I shared the incredible journey of how I successfully secured substantial bounties by uncovering high-impact vulnerabilities in Microsoft’s systems. If you haven’t had a chance to read it yet, you can catch up on the details right here :
 
-[$6000 with Microsoft Hall of Fame | Microsoft Firewall Bypass | CRLF to XSS | Microsoft Bug Bounty](https://thecyberneh.github.io/posts/MicrosoftBugbounty/)
+[$6000 with Microsoft Hall of Fame Microsoft Firewall Bypass CRLF to XSS Microsoft Bug Bounty](https://thecyberneh.github.io/posts/MicrosoftBugbounty/)
 
 ## Finding the Vulnerability
 The program has only 1 single web page in scope and there were very few functionalities. I started by checking all the features for related vulnerabilities.
