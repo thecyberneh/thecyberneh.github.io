@@ -1,11 +1,11 @@
 ---
-title: Breaking Barriers: Unmasking the Easy Password Validation Bypass in Security Key Registration | How a Dumb Frontend Led to 750 $ Bounty
+title: Breaking Barriers; Unmasking the Easy Password Validation Bypass in Security Key Registration | How a Dumb Frontend Led to 750 $ Bounty
 date: 2024-08-30 13:32:00 +0530
 categories: [writeup, bugbounty]
 tags: [bugbounty-writeup]     # TAG names should always be lowercase
 ---
 
-<figure><img src="/assets/postImg/pid2/img01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/postImg/pid3/img01.png" alt=""><figcaption></figcaption></figure>
 
 ## Bug: CRLF to XSS and Further Exploitation
 
@@ -23,7 +23,7 @@ I almost checked all features of that section but no luck because a lot of bugs 
 
 After some testing, i thought about testing the feature which was allowing user to add “Physical Security Key” as 2FA.
 
-<figure><img src="/assets/postImg/pid2/img02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/postImg/pid3/img02.png" alt=""><figcaption></figcaption></figure>
 
 ## How Hardware Security Key works ?
 
@@ -51,7 +51,7 @@ Now in this website, when you try to add security key, it asks for your current 
 
 If you enter wrong password, server returns response as ```401 Unauthorized``` with response body ```{"success":false}```
 
-<figure><img src="/assets/postImg/pid2/img03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/postImg/pid3/img03.png" alt=""><figcaption></figcaption></figure>
 
 Now after checking this, first thing in my mind was response manipulation, so i tried changing response from ```401 Unauthorized``` and ```{"success":false}``` to ```200 OK``` and ```{"success":true}``` but it did not work in first try, but i was confused because there were no specific session cookie which indicates that the response from the server accepted the password or not.
 
