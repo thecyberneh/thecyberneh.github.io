@@ -3,6 +3,8 @@ title: $6000 with Microsoft Hall of Fame | Microsoft Firewall Bypass | CRLF to X
 date: 2024-03-04 22:53:00 +0530
 categories: [writeup, bugbounty]
 tags: [bugbounty-writeup]     # TAG names should always be lowercase
+pin: true
+comments: true
 ---
 
 

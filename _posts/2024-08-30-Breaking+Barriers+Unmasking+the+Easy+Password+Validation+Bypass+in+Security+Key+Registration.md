@@ -3,6 +3,7 @@ title: Breaking Barriers; Unmasking the Easy Password Validation Bypass in Secur
 date: 2024-08-30 13:32:00 +0530
 categories: [writeup, bugbounty]
 tags: [bugbounty-writeup]     # TAG names should always be lowercase
+comments: true
 ---
 
 <figure><img src="/assets/postImg/pid3/img01.png" alt=""><figcaption></figcaption></figure>
