@@ -6,7 +6,9 @@ order: 4
 
 
 ### Introduction
-Myself **Neh Patel**, an Application Security Engineer with strong expertise in Application Security (Offensive), Product Security, Penetration Testing, Vulnerability Assessment, Source Code Review, SAST, and DAST. Actively working at Security Innovation as an Application Security Engineer and a member of the Synack Red Team (SRT), my responsibilities include Web, API, Mobile, and Network Penetration Testing, Red Teaming, Attack Surface Management, and Security Automation.
+Myself **Neh Patel**, an Application Security Engineer with strong expertise in Application Security (Offensive), Product Security, Penetration Testing, Vulnerability Assessment, Source Code Review, SAST, and DAST. 
+
+Actively working at Bureau Veritas Cybersecurity (formerly Security Innovation) as an Application Security Engineer and a member of the **Synack Red Team (SRT)**, my responsibilities include Web, API, Mobile, and Network Penetration Testing, Red Teaming, Attack Surface Management, and Security Automation.
 
 I possess deep knowledge of Application Security processes, Secure SDLC, Secure Coding Principles, Cloud Security (AWS, Azure, GCP), and Security Best Practices. My work also extends to Security Architecture, Professional Penetration Testing Reporting, and responsible disclosure of vulnerabilities.
 
