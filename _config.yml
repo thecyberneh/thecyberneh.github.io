@@ -16,10 +16,10 @@ timezone:
 
 title: Neh Patel # the main title
 
-tagline: eJPTv2 | Microsoft's Most Valuable Security Researcher Globally (Rank 92) | Microsoft Top Security Researcher Globally (Rank 23) | Hall of Fame:Google,Apple,Microsoft # it will display as the sub-title
+tagline: Microsoft Top Security Researcher Globally (Rank 23) for 2022 Q3 | Synack Red Team Member | Apple Hall of Fame | Google Hall of Fame | Microsoft Hall of Fame # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Stories and Blogs by Neh Patel ( thecyberneh ) related to cybersecurity.
+  Bugbounty writeeups by Neh Patel ( thecyberneh ) related to cybersecurity.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
