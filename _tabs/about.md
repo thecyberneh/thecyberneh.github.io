@@ -6,7 +6,9 @@ order: 4
 
 
 ### Introduction
-I'm **Neh Patel**, a passionate security engineer hailing from India. With a year of professional experience in vulnerability assessment and penetration testing, I bring a diverse skill set and a solid background in securing web applications, mobile platforms, APIs, and conducting red teaming exercises.
+Myself **Neh Patel**, an Application Security Engineer with strong expertise in Application Security (Offensive), Product Security, Penetration Testing, Vulnerability Assessment, Source Code Review, SAST, and DAST. Actively working at Security Innovation as an Application Security Engineer and a member of the Synack Red Team (SRT), my responsibilities include Web, API, Mobile, and Network Penetration Testing, Red Teaming, Attack Surface Management, and Security Automation.
+
+I possess deep knowledge of Application Security processes, Secure SDLC, Secure Coding Principles, Cloud Security (AWS, Azure, GCP), and Security Best Practices. My work also extends to Security Architecture, Professional Penetration Testing Reporting, and responsible disclosure of vulnerabilities.
 
 ### Skills
 - **Vulnerability Assessment and Penetration Testing (VAPT)**
@@ -19,11 +21,21 @@ I'm **Neh Patel**, a passionate security engineer hailing from India. With a yea
 - **Operating System:** Linux, OSI, TCP IP
 
 ### Professional Experience
-- **Deloitte (Attack Surface Management and VAPT Engineer)**
-  - Gathered valuable insights during my internship at Deloitte, enhancing my skills in vulnerability assessment and penetration testing.
+- **Bureau Veritas Cybersecurity (formerly Security Innovation)**  
+  - Currently working in the Application Security team, performing penetration testing of web applications, mobile apps, networks and APIs.  
+  - Conducting manual vulnerability assessments aligned with OWASP, MASVS, and NIST standards.  
+  - Collaborating with development and DevOps teams to remediate findings and support secure SDLC practices.  
+  - Preparing detailed technical reports and helping stakeholders understand security risks and mitigation strategies.
 
-- **Securr Tech (Internal Audit/Vulnerability Manager & Automation Engineer)**
-  - Occupied a role similar to the position I'm applying for, where I actively managed internal audits, vulnerabilities, and spearheaded automation initiatives.
+- **Deloitte (Attack Surface Management and VAPT Engineer - Intern)**  
+  - Gained practical experience in vulnerability assessment and penetration testing across large-scale enterprise environments.  
+  - Contributed to attack surface discovery, threat analysis, and documentation of findings as part of the offensive security team.  
+  - Strengthened technical and communication skills through regular collaboration with senior security engineers.
+
+- **Securr Tech (Internal Audit/Vulnerability Manager & Automation Engineer)**  
+  - Managed internal security audits, identified system vulnerabilities, and tracked remediation progress across multiple projects.  
+  - Led automation efforts to streamline vulnerability management and reporting processes.  
+
 
 
 ### Achievements
